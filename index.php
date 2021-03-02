@@ -197,6 +197,15 @@
         Chief Content Officer
       </div>
     </div>
+    <div class="item">
+      <div class="image"> <img src="layout/jpg/o-4.jpg"> </div>
+      <div class="name">
+        Muhammad Tarek
+      </div>
+      <div class="title">
+        Chief Design Officer
+      </div>
+    </div>
   </div>
   <a href="contact.php">
     <div class="xbutton center mt-40x contact-us-button">
